@@ -1,0 +1,25 @@
+﻿Plant Type,Water Amount,Bean Type,Bean Type (#),Bean Height,Bean Width,Bean Width Times Height,Water Type,Water Type (#),Leaves,True Height,Highest Leaf Height,Highest Leaf Width,IsDead1,IsDead
+Plant 1,5,Large Bean,3,21,10,210,Tap,1,5,8.5,3.5,3.5,0,NODEAD
+Plant 2,5,Large Bean,3,23.5,10,235,Waching Machine,0,11,11,5.25,4.25,0,NODEAD
+Plant 3,1,Small Bean,1,18,7.5,135,Tap,1,8,6.5,2.5,3,0,NODEAD
+Plant 4,2.5,Large Bean,3,22,10,220,Tap,1,17,19,6.5,4.5,0,NODEAD
+Plant 5,1,Large Bean,3,23.5,11,258.5,Tap,1,8,10.5,4.25,4.5,0,NODEAD
+Plant 6,2.5,Medium Bean,2,22,9,198,Tap,1,11,15,6,4.5,0,NODEAD
+Plant 7,0.4,Medium Bean,2,20,9,180,Waching Machine,0,0,0,0,0,1,DEAD
+Plant 8,0.4,Small Bean,1,19,9,171,Waching Machine,0,0,0,0,0,1,DEAD
+Plant 9,1,Medium Bean,2,20.5,9,184.5,Tap,1,0,0,0,0,1,DEAD
+Plant 10,2.5,Small Bean,1,19,9,171,Tap,1,9,9,4,4.25,0,NODEAD
+Plant 11,1,Medium Bean,2,21,9,189,Waching Machine,0,0,0,0,0,1,DEAD
+Plant 12,0.4,Medium Bean,2,21,9,189,Tap,1,9,8,3.75,4,0,NODEAD
+Plant 13,0.4,Small Bean,1,19,8,152,Tap,1,0,0,0,0,1,DEAD
+Plant 14,5,Small Bean,1,7,18,126,Waching Machine,0,0,0,0,0,1,DEAD
+Plant 15,2.5,Small Bean,1,19,7,133,Waching Machine,0,0,0,0,0,1,DEAD
+Plant 16,1,Large Bean,3,22.5,9.5,213.75,Waching Machine,0,11,12,5.75,4.5,0,NODEAD
+Plant 17,2.5,Large Bean,3,23,11,253,Waching Machine,0,8,8.75,5.25,3.5,0,NODEAD
+Plant 18,0.4,Large Bean,3,22,10,220,Tap,1,0,2.25,0,0,1,DEAD
+Plant 19,2.5,Medium Bean,2,19.5,10,195,Waching Machine,0,11,11,5.5,3.75,0,NODEAD
+Plant 20,5,Medium Bean,2,22,9,198,Waching Machine,0,10,12,4,4.5,0,NODEAD
+Plant 21,0.4,Large Bean,3,23,10,230,Waching Machine,0,0,0,0,0,1,DEAD
+Plant 22,5,Small Bean,1,18.5,8,148,Tap,1,8,7.25,3,2.75,0,NODEAD
+Plant 23,5,Medium Bean,2,20,9.5,190,Tap,1,0,0,0,0,1,DEAD
+Plant 24,1,Small Bean,1,8.5,18,153,Waching Machine,0,8,7.5,5.5,3.5,0,NODEAD
